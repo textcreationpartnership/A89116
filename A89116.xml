@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Methods to prevent smuggling in Great Britain</title>
+            <author>Merry Anthony, 1756-1835.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1775-1785</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89116</idno>
+            <idno type="STC">Wing M1949B</idno>
+            <idno type="STC">ESTC N67671</idno>
+            <idno type="EEBO-CITATION">99897117</idno>
+            <idno type="PROQUEST">99897117</idno>
+            <idno type="VID">135249</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89116)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135249)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2486:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Methods to prevent smuggling in Great Britain</title>
+                  <author>Merry Anthony, 1756-1835.</author>
+               </titleStmt>
+               <extent>3,[1]p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London?,</pubPlace>
+                  <date>1780?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Lpro copy preceded by a letter relating to smuggling regulations dated 14 Feb. 1784 and signed by Anthony Merry. In this letter Merry mentions a plan he drew up in 1779.</note>
+                  <note>Wing catalog date (168?) appears to be incorrect.</note>
+                  <note>Reproduction of original in the Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Smuggling --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:135249:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <head>METHODS TO PREVENT SMUGGLING IN GREAT BRITAIN.</head>
+            <p>SMUGGLING cutters have regular charter parties, pretending to be bound to foreign ports, laden with cuſtomable and prohibited goods; if they are not within the limits of a port, or within two leagues of the ſhore they cannot be ſeized; ſhips often bring ſpirits into port, and if they have no opportunity to ſmuggle, report their cargoes for exportation: veſſels with ſpirits have often been ſtranded and have had liberty from the commiſſioners of the cuſtoms to fell certain quanti<g ref="char:EOLhyphen"/>ties free of duties, which gives encouragement to this trade, as very few Britiſh or Iriſh veſſels are imployed to carry ſpirits or tea for foreigners, unleſs to ſmuggle on our coaſt, the nation would loſe nothing on account of freights, to make all veſſels of Great Britain or Ireland, bound from any ports in Europe, liable to ſeizure and penalties wherever found with tea or ſpirits, would tend more than any other method to prevent ſmuggling.</p>
+            <p n="2">2. Veſſels of 100 tons and upwards which can import brandies, &amp;c. often land part of their cargoes before and after their reports at the cuſtom-houſe; all merchants who import foreign brandies ſhould be obliged to take out a licence, as is done in the ſpice trade; and let veſſels of any tonnage import brandies, &amp;c. under like reſtrictions.</p>
+            <p n="3">3. No maſters of veſſels arriving from foreign ports ſhould have liberty to report bails of merchandize, contents unknown, but ſhould
+<pb n="2" facs="tcp:135249:2"/>
+               <!-- PDF PAGE 2 -->be obliged to declare the contents on their report at the cuſtom-houſe, of all bails of goods on board their veſſel, becauſe great quantities of prohibited goods are by this method brought into the kingdom.</p>
+            <p n="4">4. There are continually cutters from Fluſhing and Dunkirk and other French ports, who ſupply our outward bound ſhips and coaſting veſſels with ſpirits, teas, and all ſorts of merchandize, to the very great loſs of the nation and to the enriching our enemies.</p>
+            <p n="5">5. And the coaſting veſſels are not only ſupplyed for their own uſe but land great quantities in the ports where they are bound.</p>
+            <p n="6">6. The Deal boats attend on all homeward bound ſhips, from whom they buy all ſorts of goods and run them on ſhore.</p>
+            <p n="7">7. If the maſters and crews of any veſſels on our coaſt, who receive ſpirits or tea from on board any veſſel, were liable to ſerve for a cer<g ref="char:EOLhyphen"/>tain number of years on board the navy it would prevent this trade; and if the maſters and men of the Deal or any other boats, likewiſe on conviction were made to ſerve on board the navy, and the captain and crews of the veſſels who ſhould put goods on board them, it would ſtop this trade to the very great benefit of the revenue.</p>
+            <p n="8">8. The boatmen or the ſhips crew who ſhould inform againſt the others ſhould be free: as his Majeſty is in want of ſoldiers great numbers may be raiſed, if they were to allow 5£. for each ſmuggler, and his horſe for the uſe of the poor of the pariſh where he was taken, and to make the pariſh liable to a penalty for ſmuggled goods found and ſeized in the pariſh, which penalty to go to the uſe of the next pariſh, unleſs a pariſhoner give information, in which caſe it ſhall go to the poor of the pariſh where found; the conſta<g ref="char:EOLhyphen"/>ble, churchwardens, and overſeers to have power to make ſeizures; as the pariſhoners often encourage poor people to ſell tea and ſpirits by retail, the pariſh ſhould forfeit 10£. to the uſe of the adjoining pariſh, for each perſon convicted of retailing tea or ſpirits in the pariſh, which will prevent in a great meaſure the number of theſe houſes, and of courſe idle people from frequenting them, and be ſome means of leſſening the pariſh rates.</p>
+            <p n="9">9. Foreign veſſels often come with cargoes to ſmuggle on our coaſt, every foreign veſſel ſhould be obliged on her arrival in port to give an account of all teas and ſpirits on board, and if any more ſhould be found the veſſel ſhould be forfeited, and on the veſſel's departure an officer ſhould go on board to examine if there were any deficient more than what was neceſſary for the ſhip's uſe; hand bills in Low Dutch and French to be delivered to the maſters of foreign ſhips, that they may not plead ignorance.</p>
+            <pb n="3" facs="tcp:135249:3"/>
+            <!-- PDF PAGE 3 -->
+            <p n="10">10. As his Majeſty's navy is in want of ſailors, if a few ſtout cutters were to be ſtationed from the Northforeland to Weſt Cappell in the Iſle of Welchern to cruiſe againſt ſmugglers, they might ſoon pick up ſome thouſands of ſailors, and at the ſame time prevent the privateers from Dunkirk, &amp;c. from annoying our trade in the north ſea.</p>
+            <p n="11">11. If government was to allow a bounty of 5£. for each ſailor took out of a ſmuggler, and 10£. a ton for each veſſel brought into port by any of the King's ſhips it would very much tend to ſtop that trade.</p>
+            <p n="12">12. Goods ſold at the cuſtom-houſe ſales for exportation are moſtly clandeſtinely re-landed and ſold for home conſumption, as are large quantities of prize goods, as the atteſtations of their being landed in a foreign port, ſigned by two Britiſh merchants, can always be had to diſcharge the bond entered into here by the exporters, notwithſtanding the goods were never landed there; this may be prevented by ſubjecting the maſter and ſailors to ſome puniſhment, and forfeiture of the veſſel out of which they were re-landed.</p>
+            <p n="13">13. Any perſon having a licence to retail ſpirituous liquors being convicted of buying or keeping ſmuggled ſpirits, to forfeit their licence for three years.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
